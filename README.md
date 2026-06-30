@@ -1,2 +1,2 @@
 ```bash
-bash <(curl -fsSL https://github.com/younex65/Easy-Sni-Spoofing/blob/main/easy-sni-spoofing.sh | sed 's/\r$//') 
+bash <(curl -fsSL https://raw.githubusercontent.com/younex65/Easy-Sni-Spoofing/refs/heads/main/easy-sni-spoofing.sh
